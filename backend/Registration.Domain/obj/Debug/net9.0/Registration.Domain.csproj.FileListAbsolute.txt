@@ -1,0 +1,11 @@
+C:\Crud operations\backend\Registration.Domain\bin\Debug\net9.0\Registration.Domain.deps.json
+C:\Crud operations\backend\Registration.Domain\bin\Debug\net9.0\Registration.Domain.dll
+C:\Crud operations\backend\Registration.Domain\bin\Debug\net9.0\Registration.Domain.pdb
+C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\Registration.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\Registration.Domain.AssemblyInfoInputs.cache
+C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\Registration.Domain.AssemblyInfo.cs
+C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\Registration.Domain.csproj.CoreCompileInputs.cache
+C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\Registration.Domain.dll
+C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\refint\Registration.Domain.dll
+C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\Registration.Domain.pdb
+C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\ref\Registration.Domain.dll

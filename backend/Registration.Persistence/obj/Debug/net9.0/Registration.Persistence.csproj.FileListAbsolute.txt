@@ -1,0 +1,17 @@
+C:\Crud operations\backend\Registration.Persistence\bin\Debug\net9.0\Registration.Persistence.deps.json
+C:\Crud operations\backend\Registration.Persistence\bin\Debug\net9.0\Registration.Persistence.runtimeconfig.json
+C:\Crud operations\backend\Registration.Persistence\bin\Debug\net9.0\Registration.Persistence.dll
+C:\Crud operations\backend\Registration.Persistence\bin\Debug\net9.0\Registration.Persistence.pdb
+C:\Crud operations\backend\Registration.Persistence\bin\Debug\net9.0\Registration.Domain.dll
+C:\Crud operations\backend\Registration.Persistence\bin\Debug\net9.0\Registration.Domain.pdb
+C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.csproj.AssemblyReference.cache
+C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.AssemblyInfoInputs.cache
+C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.AssemblyInfo.cs
+C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.csproj.CoreCompileInputs.cache
+C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\Registra.CA94B795.Up2Date
+C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.dll
+C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\refint\Registration.Persistence.dll
+C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.pdb
+C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.genruntimeconfig.cache
+C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\ref\Registration.Persistence.dll

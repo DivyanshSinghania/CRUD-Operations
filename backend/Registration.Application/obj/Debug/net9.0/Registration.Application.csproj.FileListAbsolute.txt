@@ -1,0 +1,17 @@
+C:\Crud operations\backend\Registration.Application\bin\Debug\net9.0\Registration.Application.deps.json
+C:\Crud operations\backend\Registration.Application\bin\Debug\net9.0\Registration.Application.dll
+C:\Crud operations\backend\Registration.Application\bin\Debug\net9.0\Registration.Application.pdb
+C:\Crud operations\backend\Registration.Application\bin\Debug\net9.0\Registration.Domain.dll
+C:\Crud operations\backend\Registration.Application\bin\Debug\net9.0\Registration.Persistence.dll
+C:\Crud operations\backend\Registration.Application\bin\Debug\net9.0\Registration.Domain.pdb
+C:\Crud operations\backend\Registration.Application\bin\Debug\net9.0\Registration.Persistence.pdb
+C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.csproj.AssemblyReference.cache
+C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.AssemblyInfoInputs.cache
+C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.AssemblyInfo.cs
+C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.csproj.CoreCompileInputs.cache
+C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\Registra.10815A2E.Up2Date
+C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.dll
+C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\refint\Registration.Application.dll
+C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.pdb
+C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\ref\Registration.Application.dll
