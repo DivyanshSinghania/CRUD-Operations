@@ -15,3 +15,4 @@ C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\Registratio
 C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\refint\Registration.Application.dll
 C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.pdb
 C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\ref\Registration.Application.dll
+C:\Crud operations\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.sourcelink.json

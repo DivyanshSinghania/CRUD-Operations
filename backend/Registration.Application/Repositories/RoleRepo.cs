@@ -42,8 +42,16 @@ namespace Registration.Application.Repositories
 
         public async Task<RoleDto> CreateRoleAsync(RoleDto roleDto)
         {
+            // Check if Role_Id already exists
+            bool exists = await _context.Roles.AnyAsync(r => r.Role_Id == roleDto.Role_Id);
+            if (exists)
+            {
+                throw new InvalidOperationException($"Role with ID {roleDto.Role_Id} already exists.");
+            }
+
             var role = new Role
             {
+                Role_Id = roleDto.Role_Id,
                 Role_Title = roleDto.Role_Title,
                 Project_Name = roleDto.Project_Name
             };
@@ -51,7 +59,7 @@ namespace Registration.Application.Repositories
             _context.Roles.Add(role);
             await _context.SaveChangesAsync();
 
-            roleDto.Role_Id = role.Role_Id;
+            //roleDto.Role_Id = role.Role_Id;
             return roleDto;
         }
 

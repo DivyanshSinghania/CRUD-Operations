@@ -11,5 +11,17 @@ namespace Registration.Persistence.DbContext
         }
 
         public DbSet<Role> Roles { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+        base.OnModelCreating(modelBuilder);
+
+        // Ensure Role_Id is unique
+        modelBuilder.Entity<Role>()
+            .HasIndex(r => r.Role_Id)
+            .IsUnique();
+        }
     }
+
+    
 }

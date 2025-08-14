@@ -24,10 +24,7 @@ namespace Registration.Persistence.Migrations
             modelBuilder.Entity("Registration.Domain.Entities.Role", b =>
                 {
                     b.Property<int>("Role_Id")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Role_Id"));
 
                     b.Property<string>("Project_Name")
                         .IsRequired()
@@ -39,6 +36,9 @@ namespace Registration.Persistence.Migrations
                         .HasColumnType("character varying(50)");
 
                     b.HasKey("Role_Id");
+
+                    b.HasIndex("Role_Id")
+                        .IsUnique();
 
                     b.ToTable("Roles");
                 });

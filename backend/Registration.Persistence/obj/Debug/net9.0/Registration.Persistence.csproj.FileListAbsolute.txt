@@ -15,3 +15,4 @@ C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\refint\Regi
 C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.pdb
 C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.genruntimeconfig.cache
 C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\ref\Registration.Persistence.dll
+C:\Crud operations\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.sourcelink.json

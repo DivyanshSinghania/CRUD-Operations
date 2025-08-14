@@ -9,3 +9,4 @@ C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\Registration.Dom
 C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\refint\Registration.Domain.dll
 C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\Registration.Domain.pdb
 C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\ref\Registration.Domain.dll
+C:\Crud operations\backend\Registration.Domain\obj\Debug\net9.0\Registration.Domain.sourcelink.json

@@ -1,4 +1,6 @@
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
+
 
 namespace Registration.Domain.Entities
 {
@@ -6,6 +8,7 @@ namespace Registration.Domain.Entities
     {
         [Key]
         [Required]
+        [DatabaseGenerated(DatabaseGeneratedOption.None)]
         public int Role_Id { get; set; }
 
         [Required]
