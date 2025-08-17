@@ -66,5 +66,19 @@ namespace Registration.API.Controllers
 
             return NoContent();
         }
+
+    // GET: api/Employee/paged?page=1&pageSize=10
+    [HttpGet("paged")]
+    public async Task<IActionResult> GetPaged([FromQuery] int page = 1, [FromQuery] int pageSize = 10)
+    {
+        if (page <= 0 || pageSize <= 0)
+        return BadRequest("Page and PageSize must be greater than 0");
+
+        var employees = await _employeeService.GetEmployeesPagedAsync(page, pageSize);
+        return Ok(employees);
+    }
+
+
+
     }
 }

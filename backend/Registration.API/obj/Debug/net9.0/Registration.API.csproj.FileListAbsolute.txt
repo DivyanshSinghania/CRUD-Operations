@@ -412,3 +412,4 @@ C:\A_WORK\day3\CRUD-emp-role\backend\Registration.API\obj\Debug\net9.0\refint\Re
 C:\A_WORK\day3\CRUD-emp-role\backend\Registration.API\obj\Debug\net9.0\Registration.API.pdb
 C:\A_WORK\day3\CRUD-emp-role\backend\Registration.API\obj\Debug\net9.0\Registration.API.genruntimeconfig.cache
 C:\A_WORK\day3\CRUD-emp-role\backend\Registration.API\obj\Debug\net9.0\ref\Registration.API.dll
+C:\A_WORK\day3\CRUD-emp-role\backend\Registration.API\obj\Debug\net9.0\Registration.API.sourcelink.json
