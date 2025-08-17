@@ -47,7 +47,7 @@ namespace Registration.Application.Repositories
         public async Task<EmployeeDto> CreateEmployeeAsync(EmployeeDto employeeDto)
         {
             var employee = new Employee
-            {   
+            {
                 Employee_Id = employeeDto.Employee_Id,
                 Name = employeeDto.Name,
                 Email = employeeDto.Email,
@@ -88,5 +88,34 @@ namespace Registration.Application.Repositories
 
             return true;
         }
+        
+        public async Task<PagedResult<EmployeeDto>> GetEmployeesPagedAsync(int page, int pageSize)
+        {
+            var query = _context.Employees.AsQueryable();
+
+            var totalCount = await query.CountAsync();
+
+            var employees = await query
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .Select(e => new EmployeeDto
+            {
+                Employee_Id = e.Employee_Id,
+                Name = e.Name,
+                Email = e.Email,
+                Department = e.Department,
+                Designation = e.Designation
+            })
+            .ToListAsync();
+
+            return new PagedResult<EmployeeDto>
+        {
+            Items = employees,
+            TotalCount = totalCount,
+            Page = page,
+            PageSize = pageSize
+        };
+}
+
     }
 }

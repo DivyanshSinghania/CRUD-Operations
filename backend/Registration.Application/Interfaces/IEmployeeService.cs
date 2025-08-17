@@ -9,5 +9,8 @@ namespace Registration.Application.Interfaces
         Task<EmployeeDto> CreateEmployeeAsync(EmployeeDto employeeDto);
         Task<bool> UpdateEmployeeAsync(int id, EmployeeDto employeeDto);
         Task<bool> DeleteEmployeeAsync(int id);
+
+        Task<PagedResult<EmployeeDto>> GetEmployeesPagedAsync(int page, int pageSize);
+
     }
 }

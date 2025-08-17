@@ -31,3 +31,4 @@ C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Domain\obj\Debug\net9.0\Regist
 C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Domain\obj\Debug\net9.0\refint\Registration.Domain.dll
 C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Domain\obj\Debug\net9.0\Registration.Domain.pdb
 C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Domain\obj\Debug\net9.0\ref\Registration.Domain.dll
+C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Domain\obj\Debug\net9.0\Registration.Domain.sourcelink.json

@@ -49,3 +49,4 @@ C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Persistence\obj\Debug\net9.0\r
 C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.pdb
 C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.genruntimeconfig.cache
 C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Persistence\obj\Debug\net9.0\ref\Registration.Persistence.dll
+C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.sourcelink.json

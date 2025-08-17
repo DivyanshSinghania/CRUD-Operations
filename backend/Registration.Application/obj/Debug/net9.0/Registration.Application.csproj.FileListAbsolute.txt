@@ -49,3 +49,4 @@ C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Application\obj\Debug\net9.0\R
 C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Application\obj\Debug\net9.0\refint\Registration.Application.dll
 C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.pdb
 C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Application\obj\Debug\net9.0\ref\Registration.Application.dll
+C:\A_WORK\day3\CRUD-emp-role\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.sourcelink.json
