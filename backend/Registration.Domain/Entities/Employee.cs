@@ -25,5 +25,8 @@ namespace Registration.Domain.Entities
         [Required]
         [StringLength(50, MinimumLength = 2, ErrorMessage = "Designation must be between 2 and 50 characters.")]
         public required string Designation { get; set; }
+
+
+        public DateTime LastModified { get; set; } = DateTime.UtcNow;
     }
 }

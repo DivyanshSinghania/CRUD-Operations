@@ -52,7 +52,8 @@ namespace Registration.Application.Repositories
                 Name = employeeDto.Name,
                 Email = employeeDto.Email,
                 Department = employeeDto.Department,
-                Designation = employeeDto.Designation
+                Designation = employeeDto.Designation,
+                LastModified = DateTime.UtcNow
             };
 
             _context.Employees.Add(employee);
@@ -71,6 +72,7 @@ namespace Registration.Application.Repositories
             existing.Email = employeeDto.Email;
             existing.Department = employeeDto.Department;
             existing.Designation = employeeDto.Designation;
+            existing.LastModified = DateTime.UtcNow; // Update LastModified timestamp
 
             _context.Employees.Update(existing);
             await _context.SaveChangesAsync();
@@ -96,6 +98,7 @@ namespace Registration.Application.Repositories
             var totalCount = await query.CountAsync();
 
             var employees = await query
+                .OrderByDescending(e => e.LastModified)
                 .Skip((page - 1) * pageSize)
                 .Take(pageSize)
                 .Select(e => new EmployeeDto
