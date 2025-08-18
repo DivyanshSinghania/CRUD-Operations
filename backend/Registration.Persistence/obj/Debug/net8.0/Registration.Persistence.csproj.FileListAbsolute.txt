@@ -1,0 +1,4 @@
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net8.0\Registration.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net8.0\Registration.Persistence.AssemblyInfoInputs.cache
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net8.0\Registration.Persistence.AssemblyInfo.cs
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net8.0\Registration.Persistence.csproj.CoreCompileInputs.cache

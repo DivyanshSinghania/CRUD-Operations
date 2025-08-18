@@ -1,0 +1,8 @@
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.API\obj\Debug\net8.0\Registration.API.csproj.AssemblyReference.cache
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.API\obj\Debug\net8.0\Registration.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.API\obj\Debug\net8.0\Registration.API.AssemblyInfoInputs.cache
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.API\obj\Debug\net8.0\Registration.API.AssemblyInfo.cs
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.API\obj\Debug\net8.0\Registration.API.csproj.CoreCompileInputs.cache
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.API\obj\Debug\net8.0\Registration.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.API\obj\Debug\net8.0\Registration.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.API\obj\Debug\net8.0\rpswa.dswa.cache.json

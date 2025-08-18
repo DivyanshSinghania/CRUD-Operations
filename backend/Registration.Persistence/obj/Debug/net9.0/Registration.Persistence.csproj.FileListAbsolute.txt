@@ -1,0 +1,15 @@
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.csproj.AssemblyReference.cache
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.AssemblyInfoInputs.cache
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.AssemblyInfo.cs
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\bin\Debug\net9.0\Registration.Persistence.deps.json
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\bin\Debug\net9.0\Registration.Persistence.dll
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\bin\Debug\net9.0\Registration.Persistence.pdb
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\bin\Debug\net9.0\Registration.Domain.dll
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\bin\Debug\net9.0\Registration.Domain.pdb
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net9.0\Registra.CA94B795.Up2Date
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.dll
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net9.0\refint\Registration.Persistence.dll
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net9.0\Registration.Persistence.pdb
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Persistence\obj\Debug\net9.0\ref\Registration.Persistence.dll

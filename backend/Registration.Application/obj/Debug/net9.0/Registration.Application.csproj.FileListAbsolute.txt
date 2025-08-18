@@ -1,0 +1,17 @@
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\bin\Debug\net9.0\Registration.Application.deps.json
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\bin\Debug\net9.0\Registration.Application.dll
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\bin\Debug\net9.0\Registration.Application.pdb
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\bin\Debug\net9.0\Registration.Domain.dll
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\bin\Debug\net9.0\Registration.Persistence.dll
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\bin\Debug\net9.0\Registration.Domain.pdb
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\bin\Debug\net9.0\Registration.Persistence.pdb
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.csproj.AssemblyReference.cache
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.AssemblyInfoInputs.cache
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.AssemblyInfo.cs
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.csproj.CoreCompileInputs.cache
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\obj\Debug\net9.0\Registra.10815A2E.Up2Date
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.dll
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\obj\Debug\net9.0\refint\Registration.Application.dll
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\obj\Debug\net9.0\Registration.Application.pdb
+C:\Users\Anand.Jha\Downloads\CRUD-Project-Anand\backend\Registration.Application\obj\Debug\net9.0\ref\Registration.Application.dll
