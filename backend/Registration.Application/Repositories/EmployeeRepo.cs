@@ -98,7 +98,7 @@ namespace Registration.Application.Repositories
             var totalCount = await query.CountAsync();
 
             var employees = await query
-                .OrderByDescending(e => e.LastModified)
+                .OrderBy(e => e.Employee_Id)
                 .Skip((page - 1) * pageSize)
                 .Take(pageSize)
                 .Select(e => new EmployeeDto
